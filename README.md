@@ -49,4 +49,6 @@ This repository serves as a comprehensive lab for exploring and implementing agi
    When I reset the counter
    Then the counter should be set back to zero.
   ```
-
+- Sort these issues moving them to the icebox for storing long-term tasks that are not actively being worked on, and the product backlog is for keeping track of all tasks planned for the recent future.
+- Always groom and re-order the backlog according to importance or buisness relevance. it's the product owner's responsibility to maintain a groomed backlog and you start refinement by triaging new issues.
+- Add labels to relevant issues accordingly by clicking on the issues and clicking labels.
