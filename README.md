@@ -6,18 +6,20 @@ This repository serves as a comprehensive lab for exploring and implementing agi
 ## Procedures:
 - Install the chrome extension for zenhub, create an account and link account to github account. These will establish the zenhub tab on all repos. Click on the tab to create a zenhub worskspace for the repo.
 - Create an issue template from the settings tab of your repo. Using this template :
+  ```
    **As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+   **I need** [function]  
+   **So that** [benefit]  
    
- ### Details and Assumptions
- * [document what you know]
+   ### Details and Assumptions
+   * [document what you know]
    
- ### Acceptance Criteria  
+   ### Acceptance Criteria  
    
- ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
- ```
+   ```gherkin
+   Given [some context]
+   When [certain action is taken]
+   Then [the outcome of action is observed]
+   ```
+  ```
 this will be a guide for user stories for raising issues in your zenhub. 
