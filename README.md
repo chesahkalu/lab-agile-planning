@@ -50,11 +50,12 @@ This repository serves as a comprehensive lab for exploring and implementing agi
    Then the counter should be set back to zero.
   ```
 - Sort these issues moving them to the icebox for storing long-term tasks that are not actively being worked on, and the product backlog is for keeping track of all tasks planned for the recent future.
-- Always groom and re-order the backlog according to importance or buisness relevance. it's the product owner's responsibility to maintain a groomed backlog and you start refinement by triaging new issues.
+- Always groom and re-order the product backlog according to importance or buisness relevance. it's the product owner's responsibility to maintain a groomed backlog and you start refinement by triaging new 
+  issues.
   All these is to get your issues sprint ready. Again, make sure to refine new issues by sorting them as soon as possible.
 - Add labels to relevant issues accordingly by clicking on the issues and clicking labels to prepare for sprint meeting.
     * Create new label - 'technical label' on github to flag those stories that provide no visible customer value but must be completed in order to continue development.
-    * Assing these labels accordingly. Enhancement labels for issues that would enhance our product.
+    * Add these labels accordingly. Eg- Enhancement labels for issues that would enhance our product.
 - Create a sprint: a duration to usually two weeks, to interate and deploy the stories that will be passed to the sprint back-log.
 - Create a sprint plan: with the meetings and discussions with team, you should move a story from the backlog to the sprint backlog, and assign estimates (according to the teams decision are be points used 
   to estimate the difficulty of each story). Also assign one of the sprint durations to the story.
