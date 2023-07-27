@@ -56,7 +56,7 @@ This repository serves as a comprehensive lab for exploring and implementing agi
 - Add labels to relevant issues accordingly by clicking on the issues and clicking labels to prepare for sprint meeting.
     * Create new label - 'technical label' on github to flag those stories that provide no visible customer value but must be completed in order to continue development.
     * Add these labels accordingly. Eg- Enhancement labels for issues that would enhance our product.
-- Create a sprint: a duration to usually two weeks, to interate and deploy the stories that will be passed to the sprint back-log.
+- Create a sprint: a duration to usually two weeks, to interate and deploy the stories that will be passed to the sprint back-log. This can be created as milestones in both github and zenhub.
 - Create a sprint plan: with the meetings and discussions with dev team, you should move a story from the backlog to the sprint backlog, and assign estimates (according to the teams decision are be points 
   used to estimate the difficulty of each story). Also assign one of the sprint durations to the story.
   * The team might have decided that a couple of other stories in the product backlog has less points estimates to fit into this particular activated sprint duration, indicate theese stories by assigning 
@@ -65,7 +65,7 @@ This repository serves as a comprehensive lab for exploring and implementing agi
   of the stories can be achieved within the sprint duration. This total points should be limited to "Team Velocity"(Velocity is the number of story points that a team can execute in a single sprint). This     could have been determined through various factors such as the team's history, experience and skills.
 - Now to execute:
   * team member should take the next item highest on priority on the sprint backlog, inspect the story and if it is one they can work on, assign it to themselves or to someone else.
-  * Move the aasinged story to in-process and start working on it. Normally by creating a branch of the master on github to work on your code.
+  * Move the asinged story to in-process and start working on it. Normally by creating a branch of the master on github to work on your code.
   * No one should work on two things at the same time
   * Once you finish working on the story, make a pull request to merge your code into the master branch. Move your story from In Progress to Review/QA for team mates to inspect your work.
   * While waiting for a review, you can start working on another story. Make sure that you have the skills to implement it, assign it to yourself, and move it to In Progress.
