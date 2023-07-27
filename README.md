@@ -73,4 +73,13 @@ This repository serves as a comprehensive lab for exploring and implementing agi
 - Burndown: these is a chart tha shows the story points completed vs. the time left in a sprint. Burndown charts can be used to show progress and forecast the team's probability of achieving the sprint goal 
   By the left corner, on the report option, these chart can be accessed with the current sprint selected.Options at the right top corner of the graph will help teams inspect and monitor their progress, 
   completion status and rate at which they are achieving various task.
+- Sprint review: a sprint review is a demonstration of the features that have been implemented during the sprint. Everyone involved with the project is invited to participate, and feedback from stakeholders 
+  is critical to help shape the future of the product. Here, the done stories are either accepted or adjusted for new stories for next sprint.
+- Sprint retrospective: it measures the health of the process, measures the health of the team,  finds out what works and what doesn't.
+- End of sprint:
+   * accepted stories that are done should be moved to close.
+   * unfinished stories still laying in the product backlog should be dealt with. We want to adjust the estimate points to take credit for the story points expended so that it is reflected in the teams     
+     velocity, and create a new story to finish the work in the next sprint. So adjust the estimated points expanded on an unfinished story, move it to close, and create a new story to address the remaining 
+     work giving it the remaining estimated point and move it to the top of the product backlog.
+   * 
     
