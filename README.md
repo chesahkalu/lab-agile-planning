@@ -51,4 +51,7 @@ This repository serves as a comprehensive lab for exploring and implementing agi
   ```
 - Sort these issues moving them to the icebox for storing long-term tasks that are not actively being worked on, and the product backlog is for keeping track of all tasks planned for the recent future.
 - Always groom and re-order the backlog according to importance or buisness relevance. it's the product owner's responsibility to maintain a groomed backlog and you start refinement by triaging new issues.
-- Add labels to relevant issues accordingly by clicking on the issues and clicking labels.
+  All these is to get your issues sprint ready. Again, make sure to refine new issues by sorting them as soon as possible.
+- Add labels to relevant issues accordingly by clicking on the issues and clicking labels to prepare for sprint meeting.
+    * Create new label - 'technical label' on github to flag those stories that provide no visible customer value but must be completed in order to continue development.
+    * Assing these labels accordingly. Enhancement labels for issues that would enhance our product.
