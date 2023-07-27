@@ -78,8 +78,7 @@ This repository serves as a comprehensive lab for exploring and implementing agi
 - Sprint retrospective: it measures the health of the process, measures the health of the team,  finds out what works and what doesn't.
 - End of sprint:
    * accepted stories that are done should be moved to close.
-   * unfinished stories still laying in the product backlog should be dealt with. We want to adjust the estimate points to take credit for the story points expended so that it is reflected in the teams     
-     velocity, and create a new story to finish the work in the next sprint. So adjust the estimated points expanded on an unfinished story, move it to close, and create a new story to address the remaining 
-     work giving it the remaining estimated point and move it to the top of the product backlog.
-   * 
+   * unfinished stories still laying in the product backlog should be dealt with. Don't just move it to the next sprint. We want to adjust the estimate points to take credit for the story points expended so
+     that it is reflected in the teams velocity, and create a new story to finish the work in the next sprint. So adjust the estimated points expanded on an unfinished story, move it to close, and create a       new story to address the remaining work giving it the remaining estimated point and move it to the top of the product backlog.
+   *  Close the sprint to establish velocity of that sprint, All this will keep velocities accurate for future sprints.
     
