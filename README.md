@@ -57,7 +57,8 @@ This repository serves as a comprehensive lab for exploring and implementing agi
     * Create new label - 'technical label' on github to flag those stories that provide no visible customer value but must be completed in order to continue development.
     * Add these labels accordingly. Eg- Enhancement labels for issues that would enhance our product.
 - Create a sprint: a duration to usually two weeks, to interate and deploy the stories that will be passed to the sprint back-log.
-- Create a sprint plan: with the meetings and discussions with team, you should move a story from the backlog to the sprint backlog, and assign estimates (according to the teams decision are be points used 
+- Create a sprint plan: with the meetings and discussions with dev team, you should move a story from the backlog to the sprint backlog, and assign estimates (according to the teams decision are be points 
+  used 
   to estimate the difficulty of each story). Also assign one of the sprint durations to the story.
   * The team might have decided that a couple of other stories in the product backlog has less points estimates to fit into this particular activated sprint duration, indicate theese stories by assigning 
     the estimated points and move them to the sprint backlog , assigning them same duration of the first one.
