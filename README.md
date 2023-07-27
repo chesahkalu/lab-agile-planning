@@ -70,5 +70,6 @@ This repository serves as a comprehensive lab for exploring and implementing agi
   * Once you finish working on the story, make a pull request to merge your code into the master branch. Move your story from In Progress to Review/QA for team mates to inspect your work.
   * While waiting for a review, you can start working on another story. Make sure that you have the skills to implement it, assign it to yourself, and move it to In Progress.
   * When your pull request is approved , merged and review complete, Move the story to done.
-- 
+- Burndown: these is a chart tha shows the story points completed vs. the time left in a sprint. By the left corner, on the report option, these chart can be accessed with the current sprint selected.
+  Options at the right top corner of the graph will help teams inspect and monitor their progress, completion status and rate at which they are achieving various task.
     
